@@ -1,0 +1,21 @@
+.view-tasks-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.view-tasks-lists {
+  display: flex;
+  justify-content: space-evenly;
+  overflow-y: auto;
+}
+
+.view-tasks-form {
+  padding-bottom: 10px;
+}
+
+.view-items-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
